@@ -27,9 +27,11 @@ You can download the sample APK [here](https://drive.google.com/file/d/0B3jEzeKp
 
 ## Download
 
-Download the project and add the library manually to your project.
+Add the following Gradle dependency:
 
-Gradle dependency link coming soon (I hope)
+```groovy
+    compile 'com.github.ismaeltoe:flowlayout:1.0'
+```
 
 ## Credits
 
