@@ -1,5 +1,7 @@
 # FlowLayout
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ismaeltoe/flowlayout/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.ismaeltoe/flowlayout)
+
 Add views to a FlowLayout and each view is put to the right of the previous one and wraps to a new row when the current row is full.
 
 <img alt="Demo" src="http://imgur.com/FwkPnpB.png" />
